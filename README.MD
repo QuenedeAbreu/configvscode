@@ -1,3 +1,4 @@
+```json
 {
   "phpcs.enable": true,
   "phpcs.standard": null,
@@ -140,3 +141,4 @@
     }
   },
 }
+```
